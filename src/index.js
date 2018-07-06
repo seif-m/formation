@@ -1,2 +1,2 @@
-Hello world !
+Hi world !
 Correcting a Bug !
